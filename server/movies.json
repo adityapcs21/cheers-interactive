@@ -1,0 +1,235 @@
+[
+ {
+  "id": 1,
+  "name": "Batman",
+  "genere": "action",
+  "rating": "9.2",
+  "releaseDate": "2022",
+  "duration": "3:2hrs",
+  "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+  "thumbnails": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+  "id": 2,
+  "name": "spideman",
+  "genere": "action",
+  "rating": "9.2",
+  "releaseDate": "2022",
+  "duration": "3:2hrs",
+  "description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+  "thumbnails": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+  "id": 3,
+  "name": "Batman",
+  "genere": "action",
+  "rating": "9.2",
+  "releaseDate": "2022",
+  "duration": "3:2hrs",
+  "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+  "thumbnails": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+  "id": 4,
+  "name": "Batman",
+  "genere": "action",
+  "rating": "9.2",
+  "releaseDate": "2022",
+  "duration": "3:2hrs",
+  "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+  "thumbnails": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+  "id": 5,
+  "name": "Batman",
+  "genere": "action",
+  "rating": "9.2",
+  "releaseDate": "2022",
+  "duration": "3:2hrs",
+  "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+  "thumbnails": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+  "id": 6,
+  "name": "Batman",
+  "genere": "action",
+  "rating": "9.2",
+  "releaseDate": "2022",
+  "duration": "3:2hrs",
+  "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+  "thumbnails": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+  "id": 7,
+  "name": "Batman",
+  "genere": "action",
+  "rating": "9.2",
+  "releaseDate": "2022",
+  "duration": "3:2hrs",
+  "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+  "thumbnails": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+  "id": 8,
+  "name": "Batman",
+  "genere": "action",
+  "rating": "9.2",
+  "releaseDate": "2022",
+  "duration": "3:2hrs",
+  "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+  "thumbnails": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+  "id": 9,
+  "name": "Batman",
+  "genere": "action",
+  "rating": "9.2",
+  "releaseDate": "2022",
+  "duration": "3:2hrs",
+  "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+  "thumbnails": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+  "id": 10,
+  "name": "Batman",
+  "genere": "action",
+  "rating": "9.2",
+  "releaseDate": "2022",
+  "duration": "3:2hrs",
+  "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+  "thumbnails": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+  "id": 11,
+  "name": "Batman",
+  "genere": "action",
+  "rating": "9.2",
+  "releaseDate": "2022",
+  "duration": "3:2hrs",
+  "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+  "thumbnails": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+  "id": 12,
+  "name": "Batman",
+  "genere": "action",
+  "rating": "9.2",
+  "releaseDate": "2022",
+  "duration": "3:2hrs",
+  "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+  "thumbnails": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+  "id": 13,
+  "name": "Batman",
+  "genere": "action",
+  "rating": "9.2",
+  "releaseDate": "2022",
+  "duration": "3:2hrs",
+  "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+  "thumbnails": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+  "id": 14,
+  "name": "Batman",
+  "genere": "action",
+  "rating": "9.2",
+  "releaseDate": "2022",
+  "duration": "3:2hrs",
+  "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+  "thumbnails": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+  "id": 15,
+  "name": "Batman",
+  "genere": "action",
+  "rating": "9.2",
+  "releaseDate": "2022",
+  "duration": "3:2hrs",
+  "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+  "thumbnails": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+  "id": 16,
+  "name": "Batman",
+  "genere": "action",
+  "rating": "9.2",
+  "releaseDate": "2022",
+  "duration": "3:2hrs",
+  "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+  "thumbnails": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+  "id": 17,
+  "name": "Batman",
+  "genere": "action",
+  "rating": "9.2",
+  "releaseDate": "2022",
+  "duration": "3:2hrs",
+  "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+  "thumbnails": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+  "id": 18,
+  "name": "Batman",
+  "genere": "action",
+  "rating": "9.2",
+  "releaseDate": "2022",
+  "duration": "3:2hrs",
+  "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+  "thumbnails": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+  "id": 19,
+  "name": "Batman",
+  "genere": "action",
+  "rating": "9.2",
+  "releaseDate": "2022",
+  "duration": "3:2hrs",
+  "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+  "thumbnails": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+  "id": 20,
+  "name": "Batman",
+  "genere": "action",
+  "rating": "9.2",
+  "releaseDate": "2022",
+  "duration": "3:2hrs",
+  "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+  "thumbnails": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+  "id": 21,
+  "name": "Batman",
+  "genere": "action",
+  "rating": "9.2",
+  "releaseDate": "2022",
+  "duration": "3:2hrs",
+  "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+  "thumbnails": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+  "id": 22,
+  "name": "Batman",
+  "genere": "action",
+  "rating": "9.2",
+  "releaseDate": "2022",
+  "duration": "3:2hrs",
+  "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+  "thumbnails": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+  "name": "Singham1",
+  "rating": "7",
+  "genere": "drama",
+  "releaseDate": "1970-01-01T00:00:02.019Z",
+  "duration": "2.10",
+  "thumbnails": "url"
+ },
+ {
+  "name": "Singham1",
+  "rating": "7",
+  "releaseDate": "1970-01-01T00:00:02.019Z"
+ },
+]
